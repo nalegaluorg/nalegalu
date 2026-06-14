@@ -1,17 +1,17 @@
 # Publish Summary
 
-Generated: 2026-06-14 14:11 UTC
+Generated: 2026-06-14 20:33 UTC
 
 ## Stats
 
 | Metric | Value |
 |--------|-------|
 | Published | 18095 |
-| Updated/new | 6 |
-| Unchanged | 12968 |
+| Updated/new | 7 |
+| Unchanged | 12967 |
 | Skipped incomplete orzeczenia | 0 |
 | Skipped regressions | 5121 |
-| Blocked by quality gate | 818 |
+| Blocked by quality gate | 819 |
 | Rejected (total incl. errors) | 443 |
 | Total in DB | 19453 |
 
@@ -21,8 +21,8 @@ Generated: 2026-06-14 14:11 UTC
 |--------|----------|---------|-------|
 | Published | 13591 | 18095 | +4504 |
 | Rejected | 495 | 443 | -52 |
-| Articles | 192290 | 121890 | -70400 |
-| Body chars | 458,239,478 | 458,610,408 | +370930 |
+| Articles | 192290 | 123869 | -68421 |
+| Body chars | 458,239,478 | 459,762,225 | +1522747 |
 
 ## Quality gate breakdown
 
@@ -37,14 +37,15 @@ Generated: 2026-06-14 14:11 UTC
 | other | 2 |
 | missing diacritics | 1 |
 | ELI placeholder | 1 |
+| round-trip | 1 |
 
 ## Act type breakdown
 
 | Value | Count |
 |-------|------:|
 | Rozporządzenie | 10269 |
-| Ustawa | 4237 |
-| Obwieszczenie | 2034 |
+| Ustawa | 4238 |
+| Obwieszczenie | 2033 |
 | Orzeczenie | 1161 |
 | Umowa międzynarodowa | 329 |
 | Protokół | 18 |
@@ -62,9 +63,9 @@ Generated: 2026-06-14 14:11 UTC
 
 | Value | Count |
 |-------|------:|
-| obowiązujący | 10813 |
+| obowiązujący | 10812 |
 | akt objęty tekstem jednolitym | 5051 |
-| akt posiada tekst jednolity | 1712 |
+| akt posiada tekst jednolity | 1713 |
 | nieobowiązujący - uchylona podstawa prawna | 513 |
 | wygaśnięcie aktu | 4 |
 | uznany za uchylony | 2 |
@@ -76,8 +77,8 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | Value | Count |
 |-------|------:|
 | O | 11966 |
-| T | 4830 |
-| U | 1280 |
+| T | 4829 |
+| U | 1281 |
 | unknown | 19 |
 
 ## Unified text candidate PDF type breakdown
@@ -86,7 +87,7 @@ PDF type counts come from the local/candidate document metadata. If a regression
 |-------|------:|
 | O | 4937 |
 | T | 1138 |
-| U | 679 |
+| U | 680 |
 | unknown | 9 |
 
 ## Source downgrade skips
@@ -95,7 +96,7 @@ PDF type counts come from the local/candidate document metadata. If a regression
 |-------|------:|
 | Original PDF candidate for unified act | 4937 |
 
-## Blocked acts (818)
+## Blocked acts (819)
 
 | Address | Issues |
 |---------|--------|
@@ -353,7 +354,7 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | WDU20070610418 |  |
 | WDU20070610419 |  |
 | WDU20070690467 |  |
-| WDU20070820557 | rendered round-trip failed: AST=9 rendered=9 missi |
+| WDU20070820557 |  |
 | WDU20070980656 |  |
 | WDU20070990661 | rendered round-trip failed: AST=12 rendered=14 mis |
 | WDU20071150791 | rendered round-trip failed: AST=25 rendered=23 mis |
@@ -363,7 +364,7 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | WDU20071330933 |  |
 | WDU20071360956 | rendered round-trip failed: AST=3 rendered=13 extr |
 | WDU20071360958 | rendered round-trip failed: AST=25 rendered=29 mis |
-| WDU20071360959 | rendered round-trip failed: AST=24 rendered=24 mis |
+| WDU20071360959 |  |
 | WDU20071380977 |  |
 | WDU20071711208 | rendered round-trip failed: AST=8 rendered=13 extr |
 | WDU20071761240 | rendered round-trip failed: AST=4 rendered=5 extra |
@@ -915,8 +916,9 @@ PDF type counts come from the local/candidate document metadata. If a regression
 | WDU20250001691 | rendered round-trip failed: AST=306 rendered=289 m |
 | WDU20260000236 | rendered round-trip failed: AST=248 rendered=0 mis |
 | WDU20260000377 | rendered round-trip failed: AST=29 rendered=0 miss |
-| WDU20260000468 | rendered round-trip failed: AST=1169 rendered=1169 |
+| WDU20260000468 | rendered round-trip failed: AST=1169 rendered=1640 |
 | WDU20260000521 | rendered round-trip failed: AST=250 rendered=0 mis |
+| WDU20260000549 | rendered round-trip failed: AST=43 rendered=45 ext |
 
 ## Removed — no longer in force (6)
 
