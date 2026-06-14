@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T13:29:47Z",
+  "generated_at": "2026-06-14T14:11:18Z",
   "acts": {
     "published": 18095,
     "rejected": 443,
@@ -12,8 +12,7 @@
     "avg_articles": 6.7
   },
   "sources": {
-    "pdf": 16779,
-    "isap-pdf": 1112,
+    "pdf": 17891,
     "eli-html": 204
   },
   "act_types": {

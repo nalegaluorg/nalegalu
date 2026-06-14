@@ -67,9 +67,8 @@
     "total_body_chars": 458610408,
     "total_articles": 121890,
     "sources": {
-      "pdf": 16779,
-      "eli-html": 204,
-      "isap-pdf": 1112
+      "pdf": 17891,
+      "eli-html": 204
     },
     "act_types": {
       "Ustawa": 4237,
